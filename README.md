@@ -104,7 +104,7 @@ sudo systemctl enable postgresql
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/VuQuocLong21092003/RestAPI.git
+git clone https://github.com/VuQuocLong21092003/RestApi.git
 cd RestApi
 ```
 
